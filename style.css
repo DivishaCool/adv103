@@ -1,0 +1,32 @@
+body{
+
+    background: rgb(34,195,183);
+    background: linear-gradient(0deg, rgba(34,195,183,1) 0%, rgba(36,206,177,1) 20%, rgba(44,248,153,1) 100%);
+color:white;
+    }
+
+    .heading{
+        width:80%;
+        font-size: 22px;
+
+    }
+
+    #ok{
+        color:white;
+        width:80%;
+        
+
+    }
+
+    #camera , #result{
+        border:2px dashed white;
+        width:350px;
+        height:300px;
+    }
+
+    #result_object_name , #result_object_accuracy{
+        color:white;
+
+    }
+
+    
